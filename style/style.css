@@ -1,0 +1,68 @@
+.wrapper{
+    width: 1920px;
+}
+
+.wrapper-broadcast{
+    background-color: #000000;
+    color: red;
+}
+
+.wrapper-banner{
+    width: 950px;
+    padding: 60px 200px 60px 200px;
+}
+
+.wrapper-banner p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.banner{
+    background-color: #272727;
+}
+
+.training h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    color: #5600E1;
+    margin-top: 0px;
+}
+
+.training p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 21px;
+    text-align: left;
+}
+
+.training-ellips{
+    display: flex;
+    align-items: center;
+}
+
+.ellips{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: #5600E1;
+}
+
+.training-ellips p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.wrapper-footer{
+    background-color: #090909;
+}
